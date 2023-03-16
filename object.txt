@@ -1,0 +1,74 @@
+[
+    {
+
+        "src": "./a-8-hubble-space-telescope-crab-nebula.jpg",
+        "alt": "image not found",
+        "id": "img1"
+
+    },
+
+    {
+        "src": "./awesome-photography-place.jpg",
+        "alt": "image not found",
+        "id": "img2"
+        
+    },
+
+    {
+        "src": "./photo-manipulation-3660491__340.jpg",
+        "alt": "image not found",
+        "id": "img3"
+        
+    },
+
+    {
+        "src": "./271968.jpg",
+        "alt": "image not found",
+        "id": "img4"
+        
+    },
+
+    {
+        "src": "./ctj6Oz.jpg",
+        "alt": "image not found",
+        "id": "img5"
+        
+    },
+
+    {
+        "src": "./49753237681_855998ac2d_h-1024x576.jpg",
+        "alt": "image not found",
+        "id": "img6"
+        
+    },
+
+    {
+        "src": "./522622-4353.jpg",
+        "alt": "image not found",
+        "id": "img7"
+        
+    },
+
+    {
+        "src": "./7366a5e77781ea661d7a66ea7992bf38.jpg",
+        "alt": "image not found",
+        "id": "img8"
+        
+    },
+
+    {
+        "src": "./images.jpeg",
+        "alt": "image not found",
+        "id": "img9"
+        
+    },
+
+    {
+        "src": "./thumb-1920-998446-edited.webp",
+        "alt": "image not found",
+        "id": "img10"
+        
+    }
+
+
+]
